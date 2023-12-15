@@ -1,0 +1,10 @@
+git init
+git add README.md
+or 
+git add .
+git commit -m "first commit"
+git branch -M main 
+or 
+git branch -M master
+git remote add origin https://github URL.
+git push -u origin master
